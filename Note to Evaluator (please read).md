@@ -10,8 +10,9 @@ However it seems only frontend needs to be shipped.
 The GridList components are part of evaluation, however they give a warning as they have been renamed to ImageList (in the version I have). 
 So I have used alias in the import for the same.
 
-During the walkthrough and the earlier part of the course componentWillmount was extensively encouraged, but it also leads to warnings as it is being deparcated. 
+During the project walkthrough and the earlier part of the course componentWillmount was extensively encouraged, but it also leads to warnings as it is being deparcated. 
 So UNSAFE_ has been used.
 
+REACT ROUTER DOM VERSION 5.2 has been used as there has been dramatic difference between course content guidance and current version 6.2+
 
 Thank You!
